@@ -2,6 +2,7 @@
 import ee
 ee.Initialize()
 
+
 base_asset_path = 'users/fhatangimana8595/Reclassified/'
 new_asset_path = 'users/fhatangimana8595/Reclassified_new/'  # Change this to your desired path for saving reclassified images
 
